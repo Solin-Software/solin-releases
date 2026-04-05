@@ -1,5 +1,7 @@
 # Solin — Free Media App for Jehovah's Witnesses Congregation Meetings
 
+🌍 Languages: English | [Português (Brasil)](./README.pt-BR.md)
+
 [![GitHub Releases](https://img.shields.io/github/v/release/Solin-Software/solin-releases)](https://github.com/Solin-Software/solin-releases/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](https://solinav.vercel.app/)
 [![Languages](https://img.shields.io/badge/Languages-Multiple-green)](https://solinav.vercel.app/)
